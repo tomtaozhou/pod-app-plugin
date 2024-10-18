@@ -1,4 +1,4 @@
-# Pod App Plugin
+# Pod App Plugin #
 **Contributors:** Tao Zhou
 **Tags:** fediverse, activitypub, upod
 **Stable tag:** 1.0  
