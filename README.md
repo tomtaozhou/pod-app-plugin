@@ -1,6 +1,6 @@
-# Pod App Plugin #
-**Contributors:** Tao Zhou
-**Tags:** fediverse, activitypub, upod
+# UPOD #
+**Contributors:** Tao Zhou  
+**Tags:** fediverse, activitypub,upod  
 **Stable tag:** 1.0  
 **Requires PHP:** 5.6  
 **License:** GPL3.0  
